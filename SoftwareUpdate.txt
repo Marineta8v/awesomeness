@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Add estimate_speed(region_color) parameter (#8285)
